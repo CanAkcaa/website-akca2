@@ -117,7 +117,7 @@ body {
   font-family: "Arial", sans-serif;
   font-size: 36px;
   font-weight: bold;
-  color: #2590c6; /* Mavi renk */
+  color: #B22222; /* Mavi renk */
   text-align: center;
   display: inline-block;
   text-transform: uppercase; /* Büyük harf */
@@ -426,7 +426,7 @@ img {
   font-weight: 600;
   font-family: "Inter", sans-serif;
   color: #fff !important;
-  background: #2590c6;
+  background: #B22222;
   text-align: center;
   padding: 18px 40px;
   text-transform: capitalize;
@@ -437,7 +437,7 @@ img {
 }
 
 .theme-btn-one:hover {
-  background: #2590c6;
+  background: #B22222;
 }
 
 .theme-btn-one:before {
@@ -449,7 +449,7 @@ img {
   top: 0px;
   z-index: -1;
   transform: scale(0, 0);
-  background: #2590c6;
+  background: #B22222;
   transition: all 500ms ease;
 }
 
@@ -906,7 +906,7 @@ img {
   align-items: center;
   justify-content: space-between;
   padding: 0px 70px;
-  background: #2590c6;
+  background: #B22222;
   border-radius: 0px 0px 100px 100px;
 }
 
@@ -1163,7 +1163,7 @@ img {
   margin-top: 15px;
   padding: 10px 0px;
   z-index: 100;
-  background: #2590c6;
+  background: #B22222;
   display: none;
   opacity: 0;
   visibility: hidden;
@@ -1176,7 +1176,7 @@ img {
 }
 
 .main-menu .navigation > li > .megamenu {
-  background: #2590c6;
+  background: #B22222;
 }
 
 .main-menu .navigation > li > .megamenu a {
@@ -1261,7 +1261,7 @@ img {
   display: none;
   border-radius: 0px;
   padding: 10px 0px;
-  background: #2590c6;
+  background: #B22222;
   transition: all 500ms ease;
   -moz-transition: all 500ms ease;
   -webkit-transition: all 500ms ease;
@@ -1878,7 +1878,7 @@ div#mCSB_1_container {
 }
 
 .bg-color-2 {
-  background: #2590c6;
+  background: #B22222;
 }
 
 .nav-style-one .owl-nav button {
@@ -2088,7 +2088,7 @@ div#mCSB_1_container {
 /** header-style-two **/
 
 .header-style-two .header-top {
-  background: #2590c6;
+  background: #B22222;
 }
 
 .header-style-two .header-top .top-right .login a {
@@ -2100,8 +2100,8 @@ div#mCSB_1_container {
 }
 
 .header-style-two.main-header .menu-right-content .btn-box a:hover {
-  background: #2590c6;
-  border-color: #2590c6;
+  background: #B22222;
+  border-color: #B22222;
 }
 
 .parallax {
