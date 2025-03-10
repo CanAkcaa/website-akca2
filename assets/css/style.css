@@ -1051,6 +1051,7 @@ img {
   }
 }
 
+
 .gallery-item {
   margin-bottom: 1.5rem;
 }
@@ -1063,6 +1064,12 @@ img {
 }
 .gallery-item img:hover {
   transform: scale(1.03);
+}
+
+@media (max-width: 768px) {
+  .gallery-item img {
+    height: auto;
+  }
 }
 
 .main-header .menu-right-content .btn-box a:before {
